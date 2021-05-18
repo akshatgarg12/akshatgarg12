@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Garg</h1>
 <h3 align="center">I'm a student , web developer and a competitive programmer.</h3>
 
-- 🔭 I’m currently working on [Reqlogs](https://github.com/akshatgarg12/Reqlogs)
+- 🔭 I’m currently working on [Invester](https://github.com/akshatgarg12/Invester)
 
 - 🌱 I’m currently learning **Docker, GraphQL**
 
